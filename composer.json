@@ -5,14 +5,14 @@
     "version": "1.0.4",
     "license": "proprietary",
     "require": {
-        "shopware/core": "6.7.1.*"
+        "shopware/core": "~6.7.0"
     },
     "extra": {
         "shopware-plugin-class": "SloxDwn\\SloxShopwarePluginDownload",
         "plugin-icon": "icon.png",
         "label": {
-            "de-DE": "Plugin herunterladen",
-            "en-GB": "Download Installed plugin"
+            "de-DE": "Eph Plugin herunterladen",
+            "en-GB": "Eph Download Installed plugin"
           },
           "description": {
                "de-DE": "Download installiertes Plugin in Shopware 6",
